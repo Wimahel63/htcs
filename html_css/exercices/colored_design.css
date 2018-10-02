@@ -1,0 +1,38 @@
+#conteneur{
+    width: 50%;
+    margin: auto;
+    border: 4px solid olivedrab;
+}
+
+header{
+    height: 50px;
+    background-color: white;
+
+
+}
+figure{
+    background: 
+}
+
+a{
+    height: 10px;
+    width: 15px;
+    background-color: greenyellow;
+    color: white;
+}
+
+nav{
+    background-color: lawngreen;
+    height: 10px;
+}
+
+footer{
+    color: olivedrab;
+    text-align: end;
+}
+
+section{
+    margin: 3px;
+    text-align: justify;
+    float: left;
+}
