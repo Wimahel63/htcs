@@ -1,0 +1,60 @@
+#conteneur{
+    margin: 0 auto;
+    width: 100%;
+    background-color: aqua;
+    border: 2px solid black;
+}
+
+header{
+    
+    height: 60px;
+    background-color: blue;
+    color: whitesmoke;
+    text-align: center;
+}
+
+nav{  
+    height: 25px;
+    text-align: center;
+    background-color: indigo;
+    color: antiquewhite;
+}
+section#Z{
+
+    margin: 2px solid white;
+    padding: 200px;
+}
+
+footer{
+    height: 60px;
+    text-align: center;
+    background-color: aquamarine;
+    color: coral;
+}
+
+#Z, #Y, #X, #W{
+    width: 25%;
+    margin: 5px;
+    float: left;
+}
+div#right{
+    width: 25%;
+    margin: 5px;
+    float: right;
+}
+.clear{
+    float: left;
+}
+.A{
+    background-color: cornflowerblue;
+    color: rgb(147, 95, 160);
+}
+.B{
+    background: linear-gradient(blue,lightskyblue);
+}
+.C{
+    background: linear-gradient(yellow,green);
+}
+;.D{
+
+}
